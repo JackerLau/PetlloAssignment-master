@@ -1,0 +1,121 @@
+<resources>
+    <!-- Login & Register -->
+    <string name="app_name">Petllo</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login here.</string>
+    <string name="logo">Petllo Logo</string>
+
+    <!-- Bottom Navigation View -->
+    <string name="home">Home</string>
+    <string name="adopt">Adopt</string>
+    <string name="training">Training</string>
+    <string name="profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="welcome">Welcome to Petllo!</string>
+    <string name="logout">Logout</string>
+
+    <!-- Profile -->
+    <string name="action_settings">Settings</string>
+    <string name="zuiyin">Zuiyin</string>
+    <string name="steven">Steven</string>
+    <string name="contact_no">Contact No:</string>
+    <string name="my_pets">My Pets</string>
+
+
+    <!-- Training -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="private_training">Private Training</string>
+    <string name="next">Next</string>
+    <string name="group_training">Group Training</string>
+    <string name="dog_walking">Dog Walking</string>
+    <string name="dog1">dog1</string>
+    <string name="can_t_get_your_dog_listen_to_you_customized_in_house_dog_training_is_made_for_you">Can\'t get your dog listen to you - customized in-house dog training is made for you</string>
+    <string name="customized_in_house_dog_training_is_made_for_you">customized_in_house_dog_training_is_made_for_you</string>
+    <string name="can_t_get_your_dog_listen_to_you">can_t_get_your_dog_listen_to_you</string>
+    <string name="Customized_in_house_dog_training_is_made_for_you">Customized in house dog training is made for you</string>
+    <string name="Can_t_get_your_dog_listen_to_you">Can\'t get your dog listen to you</string>
+    <string name="an_alternative_training_without_breaking_the_bank">An alternative training without breaking the bank</string>
+    <string name="An_alternative_training_without_breaking_the_bank">An alternative training without breaking the bank</string>
+    <string name="No_time_to_walk_your_dog">No time to walk your dog</string>
+    <string name="Convenient_dog_walking_services_at_your_doorstep">Convenient dog walking services at your doorstep</string>
+    <string name="private_dog_training">Private Dog Training</string>
+    <string name="group_dog_training">Group Dog Training</string>
+    <string name="ptwallpaper">ptWallpaper</string>
+    <string name="gtwallpaper">gtWallpaper</string>
+    <string name="dwwallpaper">dwWallpaper</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
+    <string name="fees">Fees</string>
+    <string name="description">Description</string>
+    <string name="full_description">Full Description</string>
+    <string name="fees_rm_30">Fees: RM 30</string>
+    <string name="fees_rm_1000">Fees: RM 1000</string>
+    <string name="fees_rm_2000">Fees: RM 2000</string>
+
+    <!---Adopt-->
+    <string name="reply">Reply</string>
+    <string name="Dog1"><b>Dog:</b> Rhodesian Ridgeback Mix</string>
+    <string name="Profile"><b>Profile:</b> Female, 5 Years 2 Months</string>
+    <string name="Condition"><b>Condition:</b> Minor Injury</string>
+    <string name="Body"><b>Body:</b> Medium Size, Medium Fur</string>
+    <string name="Color"><b>Color:</b> Black, Brown, Cream</string>
+    <string name="Location"><b>Location:</b> Shah Alam, Selangor</string>
+    <string name="Posted"><b>Posted:</b> 27 Oct 2018</string>
+    <string name="AdoptionFee"><b>Adoption Fee:</b> RM 150</string>
+
+
+    <string name="send">Contact Owner</string>
+    <string name="map">Display Location</string>
+
+    <string name="OwnerName"><b>Owner Name:</b> Mr.Tong Wen Keong</string>
+    <string name="OwnerHp"><b>Hp Number:</b> 017-7973311</string>
+
+    <string name="enter_a_message_here">Enter a message here</string>
+    <string name="message">Message</string>
+    <string name="enter_your_reply">Enter your reply</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please enter a message</string>
+    <string name="error_reply">Please enter a reply</string>
+
+
+    <string name="Dog2"><b>Dog:</b> Mixed Breed</string>
+    <string name="Profile2"><b>Profile:</b> Male, 2 Months</string>
+    <string name="Condition2"><b>Condition:</b> Healthy</string>
+    <string name="Body2"><b>Body:</b> Medium Size, Short Fur</string>
+    <string name="Color2"><b>Color:</b> Brown, Cream, White</string>
+    <string name="Location2"><b>Location:</b> Damansara Damai, Selangor</string>
+    <string name="Posted2"><b>Posted:</b> 13 Jan 2019</string>
+    <string name="AdoptionFee2"><b>Adoption Fee:</b> FREE</string>
+
+
+    <string name="send2">Contact Owner</string>
+    <string name="map2">Display Location</string>
+
+    <string name="OwnerName2"><b>Owner Name:</b> Mr.Chan Jun Meng</string>
+    <string name="OwnerHp2"><b>Hp Number:</b> 017-8883321</string>
+
+
+    <string name="Dog3"><b>Dog:</b> Mixed Breed</string>
+    <string name="Profile3"><b>Profile:</b> Female, 2 Months</string>
+    <string name="Condition3"><b>Condition:</b> Healthy</string>
+    <string name="Body3"><b>Body:</b> Medium Size, Short Fur</string>
+    <string name="Color3"><b>Color:</b> Black, Brown</string>
+    <string name="Location3"><b>Location:</b> Ampang, Selangor</string>
+    <string name="Posted3"><b>Posted:</b> 10 Jan 2019</string>
+    <string name="AdoptionFee3"><b>Adoption Fee:</b> FREE</string>
+
+
+    <string name="send3">Contact Owner</string>
+    <string name="map3">Display Location</string>
+
+    <string name="OwnerName3"><b>Owner Name:</b> Mr.Low Kai Yi</string>
+    <string name="OwnerHp3"><b>Hp Number:</b> 017-7773763</string>
+
+</resources>
